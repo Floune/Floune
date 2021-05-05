@@ -1,5 +1,4 @@
-### Hi there 👋
-
+ 
 <!--
 **Floune/Floune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## fun projects
+- [Cadavre exquis](https://chill.exemple.xyz/) 
+- [Jeu de la vie](http://game-of-floune.herokuapp.com/)
+- [Matter js playground](http://regarde.surge.sh)
