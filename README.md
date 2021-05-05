@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 <img src="svg.svg">
 
-- [Cadavre exquis](https://chill.exemple.xyz/) 
-- [Jeu de la vie](http://game-of-floune.herokuapp.com/)
-- [Matter js playground](http://regarde.surge.sh)
+- <h1>[Cadavre exquis](https://chill.exemple.xyz/)</h1> 
+- <h1>[Jeu de la vie](http://game-of-floune.herokuapp.com/)</h1>
+- <h1>[Matter js playground](http://regarde.surge.sh)</h1>
