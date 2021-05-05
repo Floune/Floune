@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="svg.svg">
 
-# [Cadavre exquis](https://chill.exemple.xyz/) 
-# [Jeu de la vie](http://game-of-floune.herokuapp.com/)
-# [Matter js playground](http://regarde.surge.sh)
-# [Paint collaboratif](https://megapaint.herokuapp.com/)
+# 😄 [Cadavre exquis](https://chill.exemple.xyz/) 
+# 🌱 [Jeu de la vie](http://game-of-floune.herokuapp.com/)
+# ⚡ [Matter js playground](http://regarde.surge.sh)
+# 🔭 [Paint collaboratif](https://megapaint.herokuapp.com/)
