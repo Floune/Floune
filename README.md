@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## fun projects
-- [Cadavre exquis](https://chill.exemple.xyz/) 
-- [Jeu de la vie](http://game-of-floune.herokuapp.com/)
-- [Matter js playground](http://regarde.surge.sh)
+<img src="svg.svg">
