@@ -1,9 +1,15 @@
 
 
-<table align="center"><tr><td align="center" width="9999">
-<img src="/icon.png" align="center" width="150" alt="Project icon">
-  <img src="svg.svg">
+<table align="center">
+<tr>
+<td align="center" width="9999">
+
+</td>
   
+<td align="center" width="9999">
+
+<img src="svg.svg">
+
   ### 😄 [Cadavre exquis](https://chill.exemple.xyz/)
 
   ### 🌱 [Jeu de la vie](http://game-of-floune.herokuapp.com/)
@@ -18,6 +24,8 @@
 
   #### [bonus](http://pluiedebite.surge.sh/)
 
-</td></tr></table>
+</td>
+</tr>
+</table>
 
 
