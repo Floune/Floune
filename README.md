@@ -4,10 +4,6 @@
 <tr>
 <td align="center" width="9999">
 
-</td>
-  
-<td align="center" width="9999">
-
 <img src="svg.svg">
 
   ### 😄 [Cadavre exquis](https://chill.exemple.xyz/)
