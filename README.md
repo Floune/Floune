@@ -1,4 +1,5 @@
 <img src="svg.svg">
+<p align="center">
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
@@ -17,3 +18,4 @@
 #### [bonus](http://pluiedebite.surge.sh/)
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+</p>
