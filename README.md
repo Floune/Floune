@@ -18,7 +18,6 @@
 
   ### 🤔 [Haiku2000](https://haiku2000.herokuapp.com/)
 
-  #### [bonus](http://pluiedebite.surge.sh/)
 
 </td>
 </tr>
