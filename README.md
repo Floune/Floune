@@ -12,11 +12,8 @@
 
   ### ⚡ [Matter js playground](http://regarde.surge.sh)
 
-  ### 🔭 [Paint collaboratif](https://megapaint.herokuapp.com/)
-
   ### 💬 [Getting to philosophy (nécéssite le CORS)](http://get-to-philosophy.surge.sh/)
 
-  ### 🤔 [Haiku2000](https://haiku2000.herokuapp.com/)
 
 
 </td>
